@@ -1,6 +1,6 @@
-# Function to compute normalized graph entropy and normalized fisher information of a graph
-# The input for the function is a symmetric adjacency matrix of a network
-# Output of the function is a vector containing normalized graph entropy and normalied fisher information 
+# Function to compute normalized graph entropy and normalized graph fisher information of a graph
+# The input for the function is a symmetric adjacency matrix of a graph
+# Output of the function is a vector containing normalized graph entropy and normalied graph fisher information 
 
 graph_entropy_fisher<-function (adj_mat){
 # Compute number of nodes
@@ -16,7 +16,7 @@ for (i in 1:N){
 # Compute normalized graph entropy
 normalized_graph_entropy<-(1/(N*(log(N-1))))*sum(log(rowSums(adj_mat)))
 
-# Compute fisher information
+# Compute normalized graph fisher information
 temp<-matrix(0,nrow=1,ncol=N)
 node_information<-matrix(0,nrow=1,ncol=N)
 
