@@ -1,4 +1,4 @@
-# Graph-Entropy-Fisher-Information
+# Network-Entropy-Fisher-Information
 R code for computing Normalized Network Entropy and Normalized Network Fisher Information
 
 The formulas used in the code is prescirbed by 
