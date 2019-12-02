@@ -13,7 +13,8 @@ Input is adjacency matrix of the graph
 #### Output
 Output is a vector containing Normalized Network Entropy and Normalized Network Fisher Information
 
-Note: If you find any discrepancies in code kindly notify
+<font size="-1">Note: If you find any discrepancies in code kindly notify</font> 
+
 
 
 
