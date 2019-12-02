@@ -6,4 +6,4 @@ Freitas, C. G., Aquino, A. L., Ramos, H. S., Frery, A. C., & Rosso, O. A. (2019)
 
 Normalized Network Entropy is computed as follows
 
-<img src="http://bit.ly/2P9ludc" align="center" border="0" alt="\mathcal{H}=\frac{1}{N} \sum_{i=1}^{N} \mathcal{H}^{(i)}=\frac{1}{N \ln (N-1)} \sum_{i=1}^{N} \ln k_{i}" width="390" height="65" />
+<img> tag: <img src="https://cdn.mathpix.com/snip/images/26DzmU_r20vdGtplkrtTrBH95T983FLfKtEJ32fNVXs.original.fullsize.png" />
