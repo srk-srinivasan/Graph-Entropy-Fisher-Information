@@ -29,7 +29,7 @@ and
 
 <img src="https://cdn.mathpix.com/snip/images/G6u0lre4ks5KEtbGYXRJ0US36FwSOcZmER-v89dk4ko.original.fullsize.png" width="230" height="80">
 
-k is the degree and N is the number of nodes
+aij is the  adjacency matrix values, k is the degree and N is the number of nodes
 
 ###### Note: If you find any discrepancies in code kindly notify
 
