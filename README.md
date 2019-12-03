@@ -21,13 +21,13 @@ k is the degree and N is the number of nodes
 
 #### Normalized Network Fisher Information
 
-<img src="https://cdn.mathpix.com/snip/images/Ft4zO1N097baDs5yWtucEwT5eHxbtBOc93OEJBBditM.original.fullsize.png" width="300" height="80">
+<img src="https://cdn.mathpix.com/snip/images/Ft4zO1N097baDs5yWtucEwT5eHxbtBOc93OEJBBditM.original.fullsize.png" width="200" height="80">
 where
 
 <img src="https://cdn.mathpix.com/snip/images/iBWiSVOcozdZxk2GpZuNWPoaoUWUlU_nd0eGAShHRhY.original.fullsize.png" width="300" height="80">
 and
 
-<img src="https://cdn.mathpix.com/snip/images/G6u0lre4ks5KEtbGYXRJ0US36FwSOcZmER-v89dk4ko.original.fullsize.png" width="300" height="80">
+<img src="https://cdn.mathpix.com/snip/images/G6u0lre4ks5KEtbGYXRJ0US36FwSOcZmER-v89dk4ko.original.fullsize.png" width="200" height="80">
 
 k is the degree and N is the number of nodes
 
