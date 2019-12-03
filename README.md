@@ -15,7 +15,7 @@ Output is a vector containing Normalized Network Entropy and Normalized Network 
 
 #### Normalized Network Entropy
 
- <img src="https://cdn.mathpix.com/snip/images/nlm_VMziLkvhzBNWAW9KHkEh7n2JoJVrgaqaR8_QWYs.original.fullsize.png" width="300" height="60">
+ <img src="https://cdn.mathpix.com/snip/images/nlm_VMziLkvhzBNWAW9KHkEh7n2JoJVrgaqaR8_QWYs.original.fullsize.png" width="300" height="80">
 
 
 ###### Note: If you find any discrepancies in code kindly notify
