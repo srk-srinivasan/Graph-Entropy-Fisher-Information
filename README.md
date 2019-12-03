@@ -16,6 +16,3 @@ Output is a vector containing Normalized Network Entropy and Normalized Network 
 ###### Note: If you find any discrepancies in code kindly notify
 
 
-<iframe title="[ Insert title here ]" aria-label="Table" id="datawrapper-chart-YAOoq" src="//datawrapper.dwcdn.net/YAOoq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
-
-
